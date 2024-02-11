@@ -1,22 +1,24 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
-}
+  title: "W.S. Constructions",
+  description: "Engineers and Contractors",
+};
 
-import Hero from '@/components/hero'
-import Features from '@/components/features'
-import Newsletter from '@/components/newsletter'
-import Zigzag from '@/components/zigzag'
-import Testimonials from '@/components/testimonials'
+import Hero from "@/components/hero";
+import AboutUs from "@/components/about-us";
+import OurBankers from "@/components/our-bankers";
+import OurDesigners from "@/components/our-designers";
+import OurToolsAndPlants from "@/components/our-tools-and-plants";
+import Aim from "@/components/aim";
 
 export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
-      <Zigzag />
-      <Testimonials />
-      <Newsletter />
+      <AboutUs />
+      <OurBankers />
+      <OurDesigners />
+      <OurToolsAndPlants />
+      <Aim />
     </>
-  )
+  );
 }
