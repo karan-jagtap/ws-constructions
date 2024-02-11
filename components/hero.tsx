@@ -1,5 +1,3 @@
-import VideoThumb from "@/public/images/hero-image-01.jpg";
-
 export default function Hero() {
   return (
     <section id="hero">
@@ -52,7 +50,7 @@ export default function Hero() {
               Building Trust, Creating Excellence
             </h1>
             <p
-              className="text-xl text-gray-600 mb-8"
+              className="text-xl text-gray-600 mb-8 text-justify"
               data-aos="fade-up"
               data-aos-delay="200"
             >
