@@ -3,6 +3,7 @@ import "./css/style.css";
 import { Inter, Architects_Daughter, Poppins } from "next/font/google";
 
 import Header from "@/components/ui/header";
+import { Metadata } from "next";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -24,9 +25,12 @@ const poppins = Poppins({
   weight: "500",
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "W.S. Constructions",
   description: "Engineers and Contractors",
+  twitter: {
+    card: "summary_large_image",
+  },
 };
 
 export default function RootLayout({
