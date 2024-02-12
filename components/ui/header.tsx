@@ -28,7 +28,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="#about-us"
+                  href="/#about-us"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   About Us
@@ -37,7 +37,7 @@ export default function Header() {
 
               <li>
                 <Link
-                  href="#our-bankers"
+                  href="/#our-bankers"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Bankers
@@ -46,7 +46,7 @@ export default function Header() {
 
               <li>
                 <Link
-                  href="#our-designers"
+                  href="/#our-designers"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Designers
@@ -55,7 +55,7 @@ export default function Header() {
 
               <li>
                 <Link
-                  href="#our-tools-and-plants"
+                  href="/#our-tools-and-plants"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Tools & Plants
@@ -64,7 +64,7 @@ export default function Header() {
 
               <li>
                 <Link
-                  href="#aim"
+                  href="/#aim"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Aim
