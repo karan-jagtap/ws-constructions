@@ -18,7 +18,7 @@ export default function Footer() {
                   aria-label="W.S. Constructions"
                 >
                   {/* <div> */}
-                  <p className="text-3xl font-bold text-purple-700">
+                  <p className="text-3xl font-semibold text-purple-700">
                     W.S. Constuctions
                   </p>
                   <p className="text-xl uppercase">Engineers & Contractors</p>

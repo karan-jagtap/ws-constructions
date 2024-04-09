@@ -21,7 +21,7 @@ export default function OurToolsAndPlants() {
             >
               Building with Cutting-Edge Tools
             </div>
-            <h1 className="h2 mb-8">Our Tools & Plants</h1>
+            <h1 className="h2 font-semibold mb-8">Our Tools & Plants</h1>
             <div className="grid gap-20 md:gap-10">
               {/* Item 1 */}
               <div className="md:grid md:grid-cols-12 md:gap-4 items-center">
@@ -42,7 +42,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-left"
                 >
                   <div className="md:pl-2 lg:pl-8 xl:pl-12">
-                    <p className="text-gray-600 text-lg text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify">
                       Another sister concern,{" "}
                       <span className="text-purple-700 font-semibold">
                         Global Ventures, Pune
@@ -78,7 +78,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-right"
                 >
                   <div className="md:pr-2 lg:pr-8 xl:pr-12">
-                    <p className="text-gray-600 text-lg text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify">
                       <span className="text-purple-700 font-semibold">
                         Omkar Crane Services
                       </span>{" "}
@@ -116,7 +116,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-left"
                 >
                   <div className="md:pl-2 lg:pl-8 xl:pl-12">
-                    <p className="text-gray-600 text-lg text-justify mb-3">
+                    <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
                       <span className="text-purple-700 font-semibold">
                         Safe Enterprises, Bandra Mumbai
                       </span>
@@ -149,7 +149,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-right"
                 >
                   <div className="md:pr-2 lg:pr-8 xl:pr-12">
-                    <p className="text-gray-600 text-lg text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify">
                       Our pre-stressing jobs are done by{" "}
                       <span className="text-purple-700 font-semibold">
                         Mr. Sunil Rikhra

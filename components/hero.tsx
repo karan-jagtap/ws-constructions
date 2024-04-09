@@ -46,11 +46,11 @@ export default function Hero() {
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
               W.S. (World Solutions) Constructions
             </div>
-            <h1 className="h1 mb-4" data-aos="fade-up">
+            <h1 className="h1 font-semibold mb-4" data-aos="fade-up">
               Building Trust, Creating Excellence
             </h1>
             <p
-              className="text-xl text-gray-600 mb-8 text-justify"
+              className="text-base md:text-lg text-gray-600 mb-8 text-justify"
               data-aos="fade-up"
               data-aos-delay="200"
             >

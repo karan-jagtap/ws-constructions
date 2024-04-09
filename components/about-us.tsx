@@ -8,8 +8,8 @@ export default function AboutUs() {
             className="mx-auto text-center pb-12 md:pb-16"
             data-aos="fade-down"
           >
-            <h1 className="h2 mb-4">About Us</h1>
-            <p className="text-gray-600 text-lg text-justify mb-3">
+            <h1 className="h2 font-semibold mb-4">About Us</h1>
+            <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
               W.S. Constructions is a partnership firm that began as an
               independent construction organization in the year{" "}
               <span className="font-semibold">1991</span>. To complement the
@@ -28,7 +28,7 @@ export default function AboutUs() {
               that, one can confidently state that when entrusting a job to W.S.
               Constructions, it is in safe hands.
             </p>
-            <p className="text-gray-600 text-lg text-justify mb-3">
+            <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
               The firm commenced with a humble registration of{" "}
               <span className="text-purple-700 font-semibold">
                 30 Lacs (Thirty Lacs only)
@@ -50,7 +50,7 @@ export default function AboutUs() {
               competitors and enables it to fully concentrate and apply itself
               to the present tasks.
             </p>
-            <p className="text-gray-600 text-lg text-justify">
+            <p className="text-base md:text-lg text-gray-600 text-justify">
               However, the firm had a registration with the{" "}
               <span className="text-purple-700 font-semibold">
                 PWD for Rs. 25 Crores
