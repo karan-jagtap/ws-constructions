@@ -50,7 +50,7 @@ export default function Hero() {
               Building Trust, Creating Excellence
             </h1>
             <p
-              className="text-base md:text-lg text-gray-600 mb-8 text-justify"
+              className="text-base md:text-lg text-gray-600 mb-8 text-justify font-medium"
               data-aos="fade-up"
               data-aos-delay="200"
             >

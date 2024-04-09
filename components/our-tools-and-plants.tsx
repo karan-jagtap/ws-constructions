@@ -42,7 +42,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-left"
                 >
                   <div className="md:pl-2 lg:pl-8 xl:pl-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify font-medium">
                       Another sister concern,{" "}
                       <span className="text-purple-700 font-semibold">
                         Global Ventures, Pune
@@ -78,7 +78,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-right"
                 >
                   <div className="md:pr-2 lg:pr-8 xl:pr-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify font-medium">
                       <span className="text-purple-700 font-semibold">
                         Omkar Crane Services
                       </span>{" "}
@@ -116,7 +116,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-left"
                 >
                   <div className="md:pl-2 lg:pl-8 xl:pl-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
+                    <p className="text-base md:text-lg text-gray-600 text-justify mb-3 font-medium">
                       <span className="text-purple-700 font-semibold">
                         Safe Enterprises, Bandra Mumbai
                       </span>
@@ -149,7 +149,7 @@ export default function OurToolsAndPlants() {
                   data-aos="fade-right"
                 >
                   <div className="md:pr-2 lg:pr-8 xl:pr-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify font-medium">
                       Our pre-stressing jobs are done by{" "}
                       <span className="text-purple-700 font-semibold">
                         Mr. Sunil Rikhra

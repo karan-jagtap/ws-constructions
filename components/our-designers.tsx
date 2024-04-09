@@ -41,7 +41,7 @@ export default function OurDesigners() {
                   data-aos="fade-left"
                 >
                   <div className="md:pl-2 lg:pl-8 xl:pl-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify font-medium">
                       <span className="text-purple-700 font-semibold">
                         Mr. S.T. Kenghe & Associates
                       </span>
@@ -83,7 +83,7 @@ export default function OurDesigners() {
                   data-aos="fade-right"
                 >
                   <div className="md:pr-2 lg:pr-8 xl:pr-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify">
+                    <p className="text-base md:text-lg text-gray-600 text-justify font-medium">
                       <span className="text-purple-700 font-semibold">
                         Mr. S. G. Dixit
                       </span>{" "}
@@ -129,7 +129,7 @@ export default function OurDesigners() {
                   data-aos="fade-left"
                 >
                   <div className="md:pl-2 lg:pl-8 xl:pl-12">
-                    <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
+                    <p className="text-base md:text-lg text-gray-600 text-justify mb-3 font-medium">
                       <span className="text-purple-700 font-semibold">
                         Frischmann Prabhu India, Consulting Engineering Services
                         (C.E.S.) & Dalal Mott MacDonald

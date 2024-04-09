@@ -12,7 +12,7 @@ export default function Aim() {
               Vision for Excellence
             </div>
             <h1 className="h2 font-semibold mb-4">Aim</h1>
-            <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
+            <p className="text-base md:text-lg text-gray-600 text-justify mb-3 font-medium">
               The year{" "}
               <span className="text-purple-700 font-semibold">1992</span> was
               indeed a crucial year for W.S. Constructions. It was during these

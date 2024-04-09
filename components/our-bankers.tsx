@@ -15,7 +15,7 @@ export default function OurBankers() {
               Solvency: Rs. 5 crores
             </div>
             <h1 className="h2 font-semibold mb-4">Our Bankers</h1>
-            <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
+            <p className="text-base md:text-lg text-gray-600 text-justify mb-3 font-medium">
               Our Bankers have been the{" "}
               <span className="text-purple-700 font-semibold">
                 State Bank Of India, Market Yard branch, Pune
@@ -24,7 +24,7 @@ export default function OurBankers() {
               Rs. 5 crores. You are free to approach them for any confidential
               report if you so deem fit.
             </p>
-            <p className="text-base md:text-lg text-gray-600 text-justify">
+            <p className="text-base md:text-lg text-gray-600 text-justify font-medium">
               In case you also need our present financial rating or our Balance
               sheet kindly contact our{" "}
               <span className="text-purple-700 font-semibold">
