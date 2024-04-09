@@ -18,7 +18,7 @@ export default function Header() {
               aria-label="Cruip"
             >
               <Image src={Logo} width={64} alt="Logo" />
-              <span>Constructions</span>
+              <span className="font-semibold md:font-bold">Constructions</span>
             </Link>
           </div>
 

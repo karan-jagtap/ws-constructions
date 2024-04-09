@@ -11,8 +11,8 @@ export default function Aim() {
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
               Vision for Excellence
             </div>
-            <h1 className="h2 mb-4">Aim</h1>
-            <p className="text-gray-600 text-lg text-justify mb-3">
+            <h1 className="h2 font-semibold mb-4">Aim</h1>
+            <p className="text-base md:text-lg text-gray-600 text-justify mb-3">
               The year{" "}
               <span className="text-purple-700 font-semibold">1992</span> was
               indeed a crucial year for W.S. Constructions. It was during these
