@@ -26,7 +26,10 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-500">
-                <p>Noble Apartments, 25-B, Gultekdi, Pune - 411037</p>
+                <p>
+                  Flat No - 5, Shirish Classic, Right Bhusari Colony, Kothrud,
+                  Pune - 411037
+                </p>
                 <p>Pune, Maharashtra, India</p>
               </div>
             </div>
@@ -36,15 +39,33 @@ export default function Footer() {
               <div className="text-gray-500">
                 <p className="md:my-1">
                   <span className="text-purple-700 font-semibold mr-2">
-                    Phone :
+                    Mobile :
                   </span>
-                  <span>020 24260349</span>
+                  <span>+91 9822060590</span>
+                </p>
+                <p className="md:my-1">
+                  <span className="text-purple-700 font-semibold mr-2">
+                    Mobile 2:
+                  </span>
+                  <span>+91 9850666619</span>
                 </p>
                 <p className="md:my-1">
                   <span className="text-purple-700 font-semibold mr-2">
                     Email :
                   </span>
-                  <span>name@example.com</span>
+                  <span>hemantkasbekar@hotmail.com</span>
+                </p>
+                <p className="md:my-1">
+                  <span className="text-purple-700 font-semibold mr-2">
+                    Email 2:
+                  </span>
+                  <span>khemantrao@yahoo.co.in</span>
+                </p>
+                <p className="md:my-1">
+                  <span className="text-purple-700 font-semibold mr-2">
+                    Email 2:
+                  </span>
+                  <span>mksurvey999@gmail.com</span>
                 </p>
               </div>
             </div>
